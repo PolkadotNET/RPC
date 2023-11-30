@@ -4,6 +4,9 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <AssemblyName>PolkadotNET.RPC</AssemblyName>
+        <RootNamespace>PolkadotNET.RPC</RootNamespace>
+        <Authors>Daniel Moos</Authors>
     </PropertyGroup>
 
     <ItemGroup>
