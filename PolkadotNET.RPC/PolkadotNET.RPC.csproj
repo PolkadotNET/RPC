@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="PolkadotNET.SCALE" Version="0.0.2" />
+      <PackageReference Include="PolkadotNET.Smoldot" Version="0.0.3-rc4" />
+      <PackageReference Include="ServiceStack.Text" Version="6.11.0" />
+    </ItemGroup>
+
+</Project>
